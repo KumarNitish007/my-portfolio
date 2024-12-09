@@ -1,0 +1,15 @@
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\portfolioApp.exe
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\package-lock.json
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\portfolioApp.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\portfolioApp.deps.json
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\portfolioApp.runtimeconfig.json
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\portfolioApp.pdb
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\MailKit.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\MimeKit.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NitishCode\my-portfolio-main\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
